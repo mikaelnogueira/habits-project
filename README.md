@@ -26,6 +26,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O habits é um projeto voltado a facilitar o controle de atividades e hábitos, para que possa melhorar o gerenciamento do tempo.
+<br>
+<br>
+<h3>Visite o projeto online:</h3> <a href="https://mikaelnogueira.github.io/habits-project/">
+https://mikaelnogueira.github.io/habits-project/</a>
+<br>
+<br>
+<br>
 
 Esse projeto está sob a licença MIT.
 ---
