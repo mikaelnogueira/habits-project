@@ -1,39 +1,35 @@
-# project-accounts
 <h1 align="center"> Habits </h1>
 <p align="center">
-Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-
+Exclusive program promoted by Rocketseat for teaching WEB technologies. <br/>
 </p>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000%22%3E">
 </p>
 <br>
 <p align="center">
-  <img alt="projeto habits" src=".github/preview.jpg" width="100%">
+  <img alt="habits project" src=".github/preview.jpg" width="100%">
 </p>
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-- HTML e CSS
+## 🚀 Technologies
+This project was developed with the following technologies:
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
-## 💻 Projeto
+## 💻 Project
+Habits is a project aimed at facilitating the control of activities and habits, so that it can improve time management.
+<br>
+<br>
 
-O habits é um projeto voltado a facilitar o controle de atividades e hábitos, para que possa melhorar o gerenciamento do tempo.
-<br>
-<br>
-<h3>Visite o projeto online:</h3> <a href="https://mikaelnogueira.github.io/habits-project/">
+<h3>Visit the project online:</h3> <a href="https://mikaelnogueira.github.io/habits-project/">
 https://mikaelnogueira.github.io/habits-project/</a>
 <br>
 <br>
 <br>
-
-Esse projeto está sob a licença MIT.
----
-Feito com ♥
+This project is under the MIT license.
+Made with ♥
